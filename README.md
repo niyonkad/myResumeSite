@@ -2,8 +2,7 @@
 
 ## Purpose
 
-This README describes how to format a resume using Markdown,generate a static website using Pelican, and host it for free using Git and GitHub Pages. It is written for anyone with basic computer skills and some familiarity with the command line
-No prior experience with web development or version control is required.
+This README describes how to format a resume using Markdown,generate a static website using Pelican, and host it for free using Git and GitHub Pages. It is written for anyone with basic computer skills and some familiarity with the command line.No prior experience with web development or version control is required.
 
 ---
 
