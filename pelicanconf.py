@@ -1,6 +1,13 @@
 AUTHOR = 'Anne Debora Niyonkuru'
 SITENAME = 'Anne Debora Niyonkuru'
-SITEURL = ""
+SITEURL = "https://niyonkad.github.io/myResumeSite"
+
+THEME = 'themes/Flex'
+SITETITLE = 'Anne Debora Niyonkuru'
+SITESUBTITLE = 'Computer Science Student'
+SITEDESCRIPTION = 'Resume and Portfolio'
+MAIN_MENU = True
+HOME_HIDE_TAGS = True
 
 PATH = "content"
 
@@ -15,21 +22,16 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+#removes "resume" from the sidebar
+DISPLAY_PAGES_ON_MENU = False
+
 # Blogroll
-LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
-)
+LINKS = ()
 
 # Social widget
-SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-)
+SOCIAL = ()
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
