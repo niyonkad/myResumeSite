@@ -291,6 +291,14 @@ site before refreshing.
 - **Font Awesome** : Icons used by the Flex theme.
   [fontawesome.com](https://fontawesome.com)
 
+### AI Assistance
+
+- **Claude (Anthropic)** — AI assistant used to provide guidance
+  and support throughout the development of this project, including
+  help with Markdown formatting, Pelican configuration, Git commands,
+  GitHub Pages setup, and README writing.
+  [claude.ai](https://claude.ai)
+
 ### References
 
 - Etter, Andrew. _Modern Technical Writing: An Introduction to
